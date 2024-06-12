@@ -35,7 +35,7 @@ This project aims to generate artificial images of pincer tools with varying deg
   ```sh
    git clone https://github.com/yourusername/Generation-of-Artificial-Images.git
    cd Generation-of-Artificial-Images
-
+   ls -la
 
 
  - <command>: Command" refers to the difference in the angle value (expressed in degrees) between the two branches between the source image and the desired image.
