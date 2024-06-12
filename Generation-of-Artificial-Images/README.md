@@ -29,13 +29,15 @@ This project aims to generate artificial images of pincer tools with varying deg
    cd Generation-of-Artificial-Images
 
 
+## Usage
 
-## Usage 
+1.  To use the script, run the following command :
 
-1. To use the script, run the following command :
+   ```sh
+   python Main.py <command> <image_folder>
 
-  ```sh
-  python Main.py <command> <image_folder>
+
+
 
 
 - <command>: Command" refers to the difference in the angle value (expressed in degrees) between the two branches between the source image and the desired image.
@@ -104,8 +106,6 @@ In this section, you can view the program results. The original image is display
 ## Contributing
 
 Feel free to fork this project, submit issues and pull requests. Contributions are welcome!
-
-
 
 
 
