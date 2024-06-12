@@ -32,6 +32,9 @@ This project aims to generate artificial images of pincer tools with varying deg
    
 ## Usage
 
+  ```sh
+   git clone https://github.com/yourusername/Generation-of-Artificial-Images.git
+   cd Generation-of-Artificial-Images
 
 
 
