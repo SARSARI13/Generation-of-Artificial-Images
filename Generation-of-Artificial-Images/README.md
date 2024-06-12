@@ -24,7 +24,7 @@ This project aims to generate artificial images of pincer tools with varying deg
 
 1. Clone the repository:
 
-   ```sh
+   ``sh
    git clone https://github.com/yourusername/Generation-of-Artificial-Images.git
    cd Generation-of-Artificial-Images
 
@@ -33,7 +33,7 @@ This project aims to generate artificial images of pincer tools with varying deg
 
 1.  To use the script, run the following command :
 
-   ```sh
+   ``sh
    python Main.py <command> <image_folder>
    
 
