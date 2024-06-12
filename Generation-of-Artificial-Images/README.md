@@ -35,12 +35,12 @@ This project aims to generate artificial images of pincer tools with varying deg
 1. To use the script, run the following command :
 
   ```sh
-    python Main.py <command> <image_folder>
+  python Main.py <command> <image_folder>
 
 
-2. <command>: Command" refers to the difference in the angle value (expressed in degrees) between the two branches between the source image and the desired image.
+- <command>: Command" refers to the difference in the angle value (expressed in degrees) between the two branches between the source image and the desired image.
 The angle should be between -10 and 20 degrees.
-3. <image_folder>: The path to the folder containing the images to be processed.
+- <image_folder>: The path to the folder containing the images to be processed.
 
 
 
@@ -104,6 +104,8 @@ In this section, you can view the program results. The original image is display
 ## Contributing
 
 Feel free to fork this project, submit issues and pull requests. Contributions are welcome!
+
+
 
 
 
